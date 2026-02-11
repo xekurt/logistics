@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Logistics Lab | 3D Simulation",
-  description: "Advanced 3D logistics visualization and simulation platform.",
+  title: "Bokani Logistics | Precision Global Motion",
+  description: "Bokani Logistics - Precision global motion based in Klagenfurt, Austria.",
 };
 
 export default function RootLayout({
