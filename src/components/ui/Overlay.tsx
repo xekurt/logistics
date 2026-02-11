@@ -34,7 +34,7 @@ export default function Overlay() {
                     className="text-xl md:text-2xl font-bold tracking-tighter cursor-pointer"
                     onClick={() => handleNavClick('home')}
                 >
-                    BOKANI<span className="text-blue-400"> LOGISTICS</span>
+                    Mizopotamia<span className="text-blue-400"> LOGISTICS</span>
                 </div>
 
                 {/* Desktop Nav */}
